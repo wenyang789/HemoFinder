@@ -7,7 +7,7 @@
 ## 🧬 Workflow
 
 HemoFinder follows a structured machine learning pipeline to analyze AMPs.  
-![Workflow Diagram](./fig/Web_interface.png)
+![Workflow Diagram](./fig/Workflow.png)
 
 ---
 
