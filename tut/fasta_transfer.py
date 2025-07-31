@@ -2,7 +2,7 @@ import pandas as pd
 
 # test data prcessing ----
 # Read CSV file
-csv_file = '/Users/wendy_1/Github/HemoFinder/test/test.csv'  
+csv_file = 'test.csv'  
 df = pd.read_csv(csv_file)
 
 # Write CSV file into FASTA file
@@ -16,7 +16,7 @@ with open(fasta_file, 'w') as f:
 
 # train data processing ----
 # Read CSV file
-csv_file = '/Users/wendy_1/Github/HemoFinder/test/train.csv'  
+csv_file = 'train.csv'  
 df = pd.read_csv(csv_file)
 
 # Write CSV file into FASTA file
